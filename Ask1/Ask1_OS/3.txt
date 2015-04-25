@@ -1,0 +1,1 @@
+by multiple processes to a common resource in a parallel programming

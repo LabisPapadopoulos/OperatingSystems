@@ -1,0 +1,1 @@
+In computer science, a semaphore is a variable or abstract data type

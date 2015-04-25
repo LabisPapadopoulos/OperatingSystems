@@ -1,0 +1,1 @@
+a record of how many units of a particular resource are available, coupled

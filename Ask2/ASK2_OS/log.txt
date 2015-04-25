@@ -1,0 +1,33 @@
+M: H diergasia 0 me duration 0 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:14 2013
+M: H diergasia 0 me duration 0 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:14 2013
+M: H diergasia 1 me duration 1 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:16 2013
+M: H diergasia 2 me duration 0 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:18 2013
+M: H diergasia 2 me duration 0 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:18 2013
+M: H diergasia 1 me duration 1 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:17 2013
+M: H diergasia 3 me duration 0 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:21 2013
+M: H diergasia 4 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:21 2013
+M: H diergasia 5 me duration 0 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:21 2013
+M: H diergasia 3 me duration 0 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:21 2013
+M: H diergasia 5 me duration 0 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:21 2013
+M: H diergasia 6 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:22 2013
+M: H diergasia 7 me duration 3 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 8 me duration 5 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 9 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 10 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 11 me duration 1 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 12 me duration 1 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 13 me duration 0 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 14 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 13 me duration 0 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 15 me duration 4 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh 0 sec thn xronikh stigmh Wed Jan 23 22:31:24 2013
+M: H diergasia 4 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 16 me duration 2 sec kai memory size 2 kb mphke sth mnhmh meta apo anamonh -1 sec thn xronikh stigmh Wed Jan 23 22:31:23 2013
+M: H diergasia 11 me duration 1 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:24 2013
+M: H diergasia 12 me duration 1 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:24 2013
+M: H diergasia 6 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:24 2013
+M: H diergasia 9 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:25 2013
+M: H diergasia 10 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:25 2013
+M: H diergasia 14 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:25 2013
+To Ginomeno xronou mnhmhs pou vrethike einai: 30 sta 200 (15.000000%)
+H mesh timh tou megethous twn kenwn mnhmhs einai 17.000000 kai h diakumansh 91.800003
+M: H diergasia 16 me duration 2 sec kai memory size 2 kb vghke apo th mnhmh thn xronikh stigmh Wed Jan 23 22:31:26 2013
